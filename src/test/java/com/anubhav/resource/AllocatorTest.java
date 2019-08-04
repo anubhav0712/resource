@@ -1,7 +1,5 @@
 package com.anubhav.resource;
 
-import  org.junit.Assert;
-
 import static org.junit.Assert.assertEquals;
 
 import java.util.HashMap;

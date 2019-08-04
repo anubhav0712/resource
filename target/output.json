@@ -1,18 +1,1 @@
-[
-	{
-		"region": "us-east",
-		"total_cost": 0.894,
-		"servers": [
-			"(large,1)",
-			"(4xlarge,1)"
-		]
-	},
-	{
-		"region": "us-west",
-		"total_cost": 0.96599996,
-		"servers": [
-			"(large,1)",
-			"(2xlarge,2)"
-		]
-	}
-]
+[{"region":"us-east","total_cost":0.894,"servers":["(large,1)","(4xlarge,1)"]},{"region":"us-west","total_cost":0.96599996,"servers":["(large,1)","(2xlarge,2)"]}]
